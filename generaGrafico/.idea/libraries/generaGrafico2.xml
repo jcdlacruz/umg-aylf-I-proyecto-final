@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="generaGrafico">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/generaGrafico.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
